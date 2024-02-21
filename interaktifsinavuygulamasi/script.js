@@ -9,7 +9,7 @@ const questions = [
         choices: ['Mercury', 'Venus', 'Earth', 'Mars'],
         answer: 0
     },
-    // Add more questions here
+    
 ];
 
 let currentQuestion = 0;
